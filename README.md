@@ -2,6 +2,8 @@
 
 A free ministry and learning hub: Scripture practice, small games, and a local study workspace.
 
+This repository is a fork of the [Voice of Jesus Ministry website](https://github.com/Voice-of-Jesus-Ministry/website). See upstream for the current source, setup instructions, and feature updates. The routes and commands below describe this fork's branch.
+
 ## Available in this branch
 
 | Route | Function |
